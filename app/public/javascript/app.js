@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    var moreNumbers = ["773-977-1111", "312-971-7643", "312-436-2499"];
+    var moreNumbers = ["773-977-1111", "312-971-2222", "312-436-3333"];
 
     var clicked = false;
     console.log('var clicked: ' + clicked);
